@@ -8,6 +8,7 @@
 
 ## Artist's Statement ##
 ## About Me ##
+###### My name is Maya Phillips, and I am currently studying fine arts at The Cooper Union. Though I mostly work in paint and textile at the moment, I also have a strong interest in metal and plan to explore the medium much more throughout my time in college. I love to dance and do pilates, bake, spend late nights with friends, sew, and hang out with my cat. My work is heavily informed by 
 ## My Work ##
 Alt-H1
 ======
